@@ -3,8 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "bluetooth": "*"
     },
     "files": [
         "main.blocks",
@@ -20,5 +20,6 @@
     },
     "supportedTargets": [
         "microbit"
-    ]
+    ],
+    "preferredEditor": "blocksprj"
 }
